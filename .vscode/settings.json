@@ -1,6 +1,6 @@
 {
     "cucumberautocomplete.steps": [
-        "cypress/e2e/3-getting-started-with-cucumber/step_definitions/*.js",
+        "cypress/e2e/3-getting-started-with-cucumber/*.js",
     ],
     "cucumberautocomplete.strictGherkinCompletion": true
 }
