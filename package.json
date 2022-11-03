@@ -1,0 +1,16 @@
+{
+  "name": "cypress-cucumber-tests",
+  "version": "1.0.0",
+  "description": "Frontend Tests with Cypress and Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "test": "npx cypress runtest"
+  },
+  "author": "Anniek van Dijk",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^10.11.0"
+  }
+}
