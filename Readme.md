@@ -2,9 +2,9 @@
 
 ## Cypress and Cucumber documentation
 
-https://docs.cypress.io/guides/overview/why-cypress
+https://docs.cypress.io/guides/overview/why-cypress   
 https://example.cypress.io/  
-https://github.com/badeball/cypress-cucumber-preprocessor
+https://github.com/badeball/cypress-cucumber-preprocessor  
 https://cucumber.io/docs/tools/general/
 
 ## Prequisites
@@ -24,7 +24,3 @@ https://cucumber.io/docs/tools/general/
 
 Open Cypress UI: ```npx cypress open``` or ```npm run open```   
 Run Cypress tests: ```npx cypress runtest``` or ```npm run test```
-
-## Meer om toe te voegen 
-- ESLint (ook voor Cypress: 'eslint-plugin-cypress')
-- Typescript
