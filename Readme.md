@@ -20,6 +20,11 @@ https://cucumber.io/docs/tools/general/
 - Plugins: Helps to modify or extend the internal behavior of Cypress. Users can extend this framework or customize this framework beyond what Cypress gives them by default.
 - Support: The support folder contains common files (reusable code, global variables, etc.) that need to be accessed globally inside the framework.
 
+## Running Cucumber tests or normal test
+
+To run normal tests. Do remove this line in the cypress.config.js:   ```specPattern: "**/*.feature",```
+
+
 ## Cypress commands
 
 Open Cypress UI: ```npx cypress open``` or ```npm run open```   
